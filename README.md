@@ -3,6 +3,8 @@
 This project focuses on analyzing marketing campaign performance using **A/B testing and statistical hypothesis testing** to determine whether a new campaign variant leads to a statistically significant improvement in conversions.  
 It is intended for **data analysts, marketing teams, and decision-makers** who rely on data-driven experimentation.
 
+![Library_project](https://github.com/analystjoypaul/a-b-testing-hypothesis-regression-analysis/blob/main/Demo.png)
+
 ## Business Problem
 Marketing teams often run multiple campaigns, but not all lead to meaningful improvements.  
 This project answers:
@@ -12,7 +14,7 @@ This project answers:
 - Should the business roll out the treatment campaign at scale?
 
 
-![Library_project](https://github.com/analystjoypaul/a-b-testing-hypothesis-regression-analysis/blob/main/Demo.png)
+
 
 ## Experiment Design
 - **Control Group**: Users exposed to the existing campaign
