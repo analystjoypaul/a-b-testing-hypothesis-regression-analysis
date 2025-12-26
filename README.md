@@ -3,7 +3,7 @@
 This project focuses on analyzing marketing campaign performance using **A/B testing and statistical hypothesis testing** to determine whether a new campaign variant leads to a statistically significant improvement in conversions.  
 It is intended for **data analysts, marketing teams, and decision-makers** who rely on data-driven experimentation.
 
-## 🎯 Business Problem
+## Business Problem
 Marketing teams often run multiple campaigns, but not all lead to meaningful improvements.  
 This project answers:
 
@@ -12,14 +12,14 @@ This project answers:
 - Should the business roll out the treatment campaign at scale?
 
 
-## 🧪 Experiment Design
+## Experiment Design
 - **Control Group**: Users exposed to the existing campaign
 - **Treatment Group**: Users exposed to the new campaign
 - **Primary Metric**: Conversion Rate
 - **Statistical Significance Level (α)**: 0.05
 
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **Python**
 - **Pandas & NumPy** – Data cleaning and manipulation  
 - **Matplotlib & Seaborn** – Data visualization  
@@ -27,7 +27,7 @@ This project answers:
 - **Jupyter Notebook** – Analysis workflow
 
 
-## 📊 Analysis Workflow
+## Analysis Workflow
 1. **Data Loading & Cleaning**
    - Handled missing values
    - Ensured data consistency across experiment groups
@@ -47,7 +47,7 @@ This project answers:
    - Quantified uplift and practical impact
 
 
-## 📈 Key Insights
+## Key Insights
 - The treatment group showed a **higher conversion rate** compared to the control group
 - Statistical testing confirmed whether the difference was **significant**
 - Results provide actionable guidance for campaign rollout decisions
@@ -62,18 +62,18 @@ This project answers:
 
 ## Demo
 
-📌 Jupyter Notebook–based analysis  
+ Jupyter Notebook–based analysis  
 - End-to-end A/B testing workflow  
 - Data preprocessing, hypothesis testing, and result interpretation  
 
 
-## 🔗 Links
+## Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
 
 
-## 🛠 Skills
+## Skills
 
 - **Programming:** Python (Pandas, NumPy, SciPy)  
 - **Statistics:** A/B Testing, Hypothesis Testing, Confidence Intervals  
