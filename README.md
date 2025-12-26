@@ -122,6 +122,6 @@ For feedback or collaboration, feel free to connect via **LinkedIn**.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ab-testing-marketing-campaigns.git
+git clone https://github.com/analystjoypaul/ab-testing-marketing-campaigns.git
 cd ab-testing-marketing-campaigns
 
