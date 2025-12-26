@@ -12,7 +12,7 @@ This project answers:
 - Should the business roll out the treatment campaign at scale?
 
 
-
+![Library_project](https://github.com/analystjoypaul/a-b-testing-hypothesis-regression-analysis/blob/main/marketing_campaign.csv)
 
 ## Experiment Design
 - **Control Group**: Users exposed to the existing campaign
